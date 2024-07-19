@@ -12,7 +12,8 @@ import './perfil.css'
 export function AppHeader () {
     return (
         <>
-            <Perfil   />
+            <Header  />
+            <Entrada />
         </>
     )
 }
